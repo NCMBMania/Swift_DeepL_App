@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Alamofire",
+        "repositoryURL": "https://github.com/Alamofire/Alamofire.git",
+        "state": {
+          "branch": "master",
+          "revision": "51d67100121d586c9d15ec0227de96442af4dd6d",
+          "version": null
+        }
+      },
+      {
+        "package": "NCMB",
+        "repositoryURL": "https://github.com/NIFCLOUD-mbaas/ncmb_swift",
+        "state": {
+          "branch": "master",
+          "revision": "e67efd8495833baf2adcecd53ed0dbc548735df0",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
